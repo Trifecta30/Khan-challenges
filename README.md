@@ -1,7 +1,7 @@
 # Khan-challenges
 
 
-Intro to HTML:
+#Intro to HTML#
 
 Blog  	
 
@@ -12,7 +12,7 @@ Recipe book
 Travel webpage  
 
 
-Intro to JS
+#Intro to JS#
 
 Ad design 	
 
@@ -31,7 +31,7 @@ Make it rain
 Shooting star 
 
 
-Natural simulations:
+#Natural simulations#
 
 Creature Comforts & Critter Jitters 
 
